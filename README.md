@@ -1,2 +1,2 @@
 # XAi
-Explainable AI
+"Explainable AI" is a collaborative project involving a team effort that aims to elucidate the functioning of unidirectional RNN (Recurrent Neural Network) architectures using LSTM (Long Short-Term Memory) units. We employed well-known techniques such as LIME (Local Interpretable Model-agnostic Explanations) and SHAP (SHapley Additive exPlanations), along with other methods that are more comprehensively detailed in the accompanying notebook. This project seeks to enhance the transparency and interpretability of AI models, making the decision-making processes of neural networks more understandable and accessible to a broader audience, including those without deep technical expertise in AI.
